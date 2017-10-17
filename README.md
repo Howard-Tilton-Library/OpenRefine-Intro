@@ -1,5 +1,5 @@
 # OpenRefine-Intro
-Wrangling Data with OpenRefine. - Room 602 Howard-Tilton Library
+Wrangling Data with OpenRefine
 
 This will be a short show and tell on using OpenRefine to edit “messy” data. Bringing your laptop with [OpenRefine](http://openrefine.org/download.html) pre-downloaded and your own messy data is recommended.
 Attendees will learn how faceting, sorting, and clustering data can help create cleaner data sets for other uses. They will also see one example of the use of Linked Data/Sparkle endpoints in controlling and cleaning data.
@@ -83,4 +83,4 @@ VIAF reconciliation: http://refine.codefork.com/
 * if not, just demo on the 100 field
 
 ### Normalization of dates
-*http://archival-integration.blogspot.com/2015/06/normalizing-dates-with-openrefine.html?m=1
+* http://archival-integration.blogspot.com/2015/06/normalizing-dates-with-openrefine.html?m=1
