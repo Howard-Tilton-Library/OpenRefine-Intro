@@ -29,7 +29,7 @@ For another option, see import project below.
 
 ## Review your Data
 ### Faceting
-* Use the dropdown menu on a field (like 100) to "Facet>Text face"
+* Use the dropdown menu on a field (like 100) to "Facet>Text facet"
 * On the left you can now see the contents of the field, how often those contents repeat, and you can sort
 
 ### Edit cells
@@ -52,11 +52,12 @@ For another option, see import project below.
 * Experiment with your options until you have joined all of the appropriate values
 * How have the results in the facet box changed?
 
-### GREL (Google Refine Expression Langauge)
+### More on GREL (Google Refine Expression Langauge)
 * [GREL](https://github.com/OpenRefine/OpenRefine/wiki/Understanding-Expressions) allows you to use regular expressions to edit in OpenRefine 
 * create and test your regex in [regular expressions 101](https://regex101.com/)
 * test them on 10 of your rows...second row shows value after running
 * [Google Refine Cheat Sheets](http://arcadiafalcone.net/GoogleRefineCheatSheets.pdf)
+* [Library Carpenty OpenRefine](https://data-lessons.github.io/library-openrefine/07-using-transformations/)
 
 ## Ending a project
 ### To export a project
