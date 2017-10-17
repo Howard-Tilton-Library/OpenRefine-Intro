@@ -74,10 +74,13 @@ For another option, see import project below.
 * Rename if necessary, and select "Import Project"
 
 ## Advanced Options
-## Reconciliation
+### Reconciliation
 General information about Reconciliation Services in OpenRefine: https://github.com/OpenRefine/OpenRefine/wiki/Reconciliation-Service-API
 LCNAF and LCSH reconciliation: https://github.com/cmh2166/lc-reconcile
 VIAF reconciliation: http://refine.codefork.com/
 
 * if there is time, help download and run VIAF reconciliation
 * if not, just demo on the 100 field
+
+### Normalization of dates
+*http://archival-integration.blogspot.com/2015/06/normalizing-dates-with-openrefine.html?m=1
