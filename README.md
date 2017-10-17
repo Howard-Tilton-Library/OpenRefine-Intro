@@ -8,6 +8,19 @@ Audience: Senior undergraduates, graduate students, lab assistants, staff, and f
 ## Getting Started
 How to install OpenRefine: https://github.com/OpenRefine/OpenRefine/wiki/Installation-Instructions
 How to prepare your computer to use RDF reconciliations: http://refine.deri.ie/installationDocs
+
+## Create and Open a Project
+### To create a project 
+* Double click openrefine.exe where you saved it on your computer
+* A command line box will open and the GUI will open in your default browser
+* Select "Create Project" on the left and the location of a project 
+
+* CTRL + C will close the command line and stop the program (even if it's still open in your browser)
+* Start OpenRefine up again
+* Now select "Open Project" to work on the project you've previously created
+
+## Reconciliation
 General information about Reconciliation Services in OpenRefine: https://github.com/OpenRefine/OpenRefine/wiki/Reconciliation-Service-API
 LCNAF and LCSH reconciliation: https://github.com/cmh2166/lc-reconcile
 VIAF reconciliation: http://refine.codefork.com/
+
