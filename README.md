@@ -84,3 +84,6 @@ VIAF reconciliation: http://refine.codefork.com/
 
 ### Normalization of dates
 * http://archival-integration.blogspot.com/2015/06/normalizing-dates-with-openrefine.html?m=1
+
+### Alternative Option for Linked Data in Open Refine
+* Bolam, Mike. "Cleaning and Linking Data with OpenRefine" (https://mbolam.github.io/DigMitCS_openrefine/) (accessed 7/9/2018)
